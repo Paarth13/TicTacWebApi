@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using WebApplicationTicTac.Attributes;
+using WebApplicationTicTac.Models;
 
 namespace WebApplicationTicTac.Controllers
 {
@@ -48,7 +49,7 @@ namespace WebApplicationTicTac.Controllers
         // PUT: api/Game/5
         [HttpPut("{id}")]
         
-        public int[] Put(int id,[FromHeader] string apiKey)
+        public Response Put(int id,[FromHeader] string apiKey)
         {
             //var apiKey = context.HttpContext.Request.Headers["apikey"].ToString();
            if(count!=9)
@@ -90,7 +91,8 @@ namespace WebApplicationTicTac.Controllers
                 }
               
             }
-            return board;
+            GetStatus();
+            return new Response { board = board, status = GetStatus() };
         }
         
     }

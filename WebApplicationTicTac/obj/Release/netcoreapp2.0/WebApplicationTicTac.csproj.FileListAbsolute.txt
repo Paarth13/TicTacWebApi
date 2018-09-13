@@ -8,3 +8,4 @@ C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Re
 C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.AssemblyInfo.cs
 C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.dll
 C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.pdb
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.csprojAssemblyReference.cache
