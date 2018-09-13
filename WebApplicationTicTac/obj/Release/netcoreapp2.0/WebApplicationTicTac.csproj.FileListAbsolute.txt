@@ -1,0 +1,10 @@
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\bin\Release\netcoreapp2.0\WebApplicationTicTac.deps.json
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\bin\Release\netcoreapp2.0\WebApplicationTicTac.runtimeconfig.json
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\bin\Release\netcoreapp2.0\WebApplicationTicTac.runtimeconfig.dev.json
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\bin\Release\netcoreapp2.0\WebApplicationTicTac.dll
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\bin\Release\netcoreapp2.0\WebApplicationTicTac.pdb
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.AssemblyInfoInputs.cache
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.AssemblyInfo.cs
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.dll
+C:\Users\pvashisht\source\repos\WebApplicationTicTac\WebApplicationTicTac\obj\Release\netcoreapp2.0\WebApplicationTicTac.pdb
